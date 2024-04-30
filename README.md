@@ -2,6 +2,8 @@
 
 This is my custom PCB business card. I wanted to learn more about PCB design so a decided to make a fully custom PCB that functions both as a microcontroller and a business card.
 
+> Note: *PCB_biz-card_3* is the final version of this project. The other 2 were just me messing around with the EDA
+
 This is how it looks like:
 
 ![front face](img/front.png)
