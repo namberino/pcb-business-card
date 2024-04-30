@@ -4,15 +4,15 @@ This is my custom PCB business card. I wanted to learn more about PCB design so 
 
 This is how it looks like:
 
-![front face](img/front.jpg)
+![front face](img/front.png)
 
-![back face](img/back.jpg)
+![back face](img/back.png)
 
 I used EasyEDA to design the board. A lot of it was a learning experience so the design is quite messy and it doesn't follow the best practices but for now, it's good enough for me. This is the schematic and x-ray view of the board:
 
 ![schematic](img/schematic.png)
 
-![pcb view](img/pcb-view.jpg)
+![pcb view](img/pcb-view.png)
 
 # Plans
 
