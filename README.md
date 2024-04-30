@@ -16,6 +16,8 @@ I used EasyEDA to design the board. A lot of it was a learning experience so the
 
 ![pcb view](img/pcb-view.png)
 
+The circuit is a standalone Arduino Uno circuit with FTDI programmer support
+
 # Plans
 
 I plan on improving on this design. Here's a couple bullet points on what I plan on improving:
@@ -28,6 +30,9 @@ I plan on improving on this design. Here's a couple bullet points on what I plan
 
 # Credits
 
-This project was inspired by Xander Naumenko's [PCB business card](https://github.com/misprit7/PCB-Business-Card), Anthony Kouttron's [PCB business card](https://github.com/anthonykouttron/pcb-business-card-qr-nfc) and Badr Bouslikhin's [Enchanté card](https://github.com/badrbouslikhin/Enchante)
+This project was inspired by these projects:
 
-The circuit is a standalone Arduino Uno circuit with FTDI programmer support
+- Xander Naumenko's [PCB business card](https://github.com/misprit7/PCB-Business-Card)
+- Anthony Kouttron's [PCB business card](https://github.com/anthonykouttron/pcb-business-card-qr-nfc)
+- Badr Bouslikhin's [Enchanté card](https://github.com/badrbouslikhin/Enchante)
+
