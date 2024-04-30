@@ -10,7 +10,7 @@ This is how it looks like:
 
 ![back face](img/back.png)
 
-I used EasyEDA to design the board. A lot of it was a learning experience so the design is quite messy and it doesn't follow the best practices but for now, it's good enough for me. This is the schematic and x-ray view of the board:
+I used EasyEDA to design the board. This was a big learning experience for me so the design doesn't follow the best practices but for now, it's good enough. This is the schematic and x-ray view of the board:
 
 ![schematic](img/schematic.png)
 
