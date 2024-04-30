@@ -16,16 +16,12 @@ I used EasyEDA to design the board. A lot of it was a learning experience so the
 
 ![pcb view](img/pcb-view.png)
 
-The circuit is a standalone Arduino Uno circuit with FTDI programmer support
-
 # Plans
 
 I plan on improving on this design. Here's a couple bullet points on what I plan on improving:
 
 - Add an NFC antenna
-
-- Use SMD components instead (Right now, I don't really have good access to many SMD components so the components I use are all through-hole)
-
+- Use SMD components (Right now, I don't really have good access to many SMD components so the components I use are all through-hole)
 - Add 5V battery to provide energy for the MCU
 
 # Credits
