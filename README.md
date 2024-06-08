@@ -18,6 +18,8 @@ I used EasyEDA to design the board. This was a big learning experience for me so
 
 # Plans
 
+Current plan: Move project into KiCAD
+
 I plan on improving on this design. Here's a couple bullet points on what I plan on improving:
 
 - Add an NFC antenna
